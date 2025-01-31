@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  },
+  "name": "infinite_scrolling_twitter",
+  "version": "1.0.0",
+  "description": "Develop a Twitter-like homepage, with infinite scrolling",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddhi211/infinite_scrolling_twitter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siddhi211/infinite_scrolling_twitter/issues"
+  },
+  "homepage": "https://github.com/siddhi211/infinite_scrolling_twitter#readme"
+}
